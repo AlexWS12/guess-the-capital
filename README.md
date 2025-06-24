@@ -1,10 +1,10 @@
-# Web Development Project 3 - *Name of App Here*
+# Web Development Project 3 - *Guess The Flag*
 
-Submitted by: **Your Name Here**
+Submitted by: **Alex Waisman**
 
-This web app: **insert description**
+This web app: **is a flashcard-style quiz game where users try to guess the capital of a displayed country. You can track your streak and test your geography skills with this web app.**
 
-Time spent: **X** hours spent in total
+Time spent: **6.5** hours spent in total
 
 ## Required Features
 
@@ -45,7 +45,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='public\gif_3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/tI3FlRL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif...  
@@ -73,3 +73,4 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
